@@ -1,0 +1,1 @@
+docker run -it --rm -p 8888:8888 -p 4040:4040 -v C:\Users\user\Documents\Insper\6_semestre\megadados\PySpark\notebooks:/home/jovyan/work jupyter/pyspark-notebook
